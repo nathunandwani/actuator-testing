@@ -1,0 +1,7 @@
+C:\Users\Dell\Desktop\ActuatorTest\ActuatorTest\obj\Debug\ActuatorTest.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Desktop\ActuatorTest\ActuatorTest\bin\Debug\HidSharp.dll
+C:\Users\Dell\Desktop\ActuatorTest\ActuatorTest\bin\Debug\ActuatorCorrectionTest.exe.config
+C:\Users\Dell\Desktop\ActuatorTest\ActuatorTest\bin\Debug\ActuatorCorrectionTest.exe
+C:\Users\Dell\Desktop\ActuatorTest\ActuatorTest\bin\Debug\ActuatorCorrectionTest.pdb
+C:\Users\Dell\Desktop\ActuatorTest\ActuatorTest\obj\Debug\ActuatorCorrectionTest.exe
+C:\Users\Dell\Desktop\ActuatorTest\ActuatorTest\obj\Debug\ActuatorCorrectionTest.pdb
