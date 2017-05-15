@@ -40,7 +40,7 @@ namespace ActuatorTest
 
         public ActuatorController() 
         {
-            // SET ACTUATOR LIMITS FROM FROBOT'S CONFIG
+
         }
 
         public bool Connect()
